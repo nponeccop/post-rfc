@@ -309,7 +309,6 @@ features such as:
 * [`haskeline`](https://hackage.haskell.org/package/haskeline) - a complete Haskell implementation of `readline` for console
   building
 * [`process`](https://hackage.haskell.org/package/process) - low-level library for sub-process management
-* [`ansi-terminal`](https://hackage.haskell.org/package/ansi-terminal) - de facto standard cross-platform terminal library (works on Windows as well)
 
 **Some command-line tools written in Haskell:**
 
@@ -1113,6 +1112,7 @@ love writing pretty-printing libraries in Haskell for some reason.
 * [`alex`](https://hackage.haskell.org/package/alex) / [`happy`](https://hackage.haskell.org/package/happy) - Like `lexx` / `yacc` but with Haskell integration
 * [`ansi-wl-pprint`](https://hackage.haskell.org/package/ansi-wl-pprint) - Pretty-printing library
 * [`text-format`](https://hackage.haskell.org/package/text-format) - High-performance string formatting
+* [`text-icu`](https://hackage.haskell.org/package/text-icu) - Regular expressions with UTF8 support and advanced Unicode manipulation
 
 **Educational resources:**
 
